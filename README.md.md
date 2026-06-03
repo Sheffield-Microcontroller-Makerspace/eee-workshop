@@ -1,0 +1,1 @@
+Welcome to the CS-EEE Microcontroller Workshop! Here you can find self-guided exercises along with example code for each exercise.
