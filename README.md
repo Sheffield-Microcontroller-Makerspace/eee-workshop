@@ -1,4 +1,4 @@
-Welcome to the CS-EEE Microcontroller Workshop! Here you can find self-guided exercises along with example code for each exercise. It is **strongly** suggested you start with [exercise 0](./exercises/00-hello-world) as it will not only get you introduced to the board and IDE, but will help us debug any issue that you encounter.
+Welcome to the CS-EEE Microcontroller Workshop! Here you can find self-guided exercises along with example code for each exercise. It is **strongly** suggested you start with [exercise 0](/exercises/00-hello-world) as it will not only get you introduced to the board and IDE, but will help us debug any issue that you encounter.
 
 | Exercise                                                     | Code                                                                                |
 | ------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
