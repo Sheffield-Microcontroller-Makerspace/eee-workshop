@@ -14,7 +14,7 @@ Now that the board is working, let's wire up an external LED. You'll use the sam
 ![An image of the completed circuit.](circuit.jpeg)
 *An image of the completed circuit.*
 
-![A breadboard diagram of the circuit.](LED resistor_bb.png)
+![A breadboard diagram of the circuit.](LEDresistor_bb.png)
 *A breadboard diagram of the circuit.*
 
 ## Circuit
