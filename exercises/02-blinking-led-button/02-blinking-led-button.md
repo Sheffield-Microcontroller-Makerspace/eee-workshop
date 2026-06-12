@@ -45,6 +45,6 @@ Follow the instructions above.
 You should download/copy-paste the code file into your IDE. Change the PUSH_BUTTON variable to the pin that you connected the left side of your button to. 
 
 ### 3. Check the result
-Your external LED should now be blinking on and off once per second. When you click the button, it should stop blinking. If you click it again, it will resume blinking. If it does, you're ready to [move on to the next exercise!](../02-blinking-led-button/02-blinking-led-button.md)
+Your external LED should now be blinking on and off once per second. When you click the button, it should stop blinking. If you click it again, it will resume blinking. If it does, you're ready to [move on to the next exercise!](../03-traffic-lights/03-traffic-lights.md)
 
 > **Having trouble?** Check that the LED is the right way round — the long leg should be on the resistor side. If it's still not working, try a different LED from the kit. If your code doens't run hold the Boot button before plugging in your USB. Once it is plugged in, run your code and unplug and replug into your laptop. It should work as intended once you have done that. If not please ask a representative to assist you.
