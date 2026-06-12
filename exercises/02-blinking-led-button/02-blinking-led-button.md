@@ -12,18 +12,18 @@ Now that your button blinks, lets wire it up to a button to turn that blinking o
 | Button        | 1        |
 
 ## Circuit Pictures
-![An image of the completed circuit.](rightwiredbutton.jpeg)
+![An image of the completed circuit.](rightwiredbutton.jpg)
 *An image of the completed circuit.*
 
 ## Circuit
 
 Wire the circuit as follows:
 - Place the button in between the two halves of the breadboard as follows. 
-![An image of the circuit with the button.](button.jpeg)
+![An image of the circuit with the button.](button.jpg)
 - Connect the **left side** of the button to a pin on the ESP32 as follows.
-![An image of the circuit with the button and the left wire.](leftwiredbutton.jpeg)
+![An image of the circuit with the button and the left wire.](leftwiredbutton.jpg)
 - Connect the **right side** of the button to a pin on the **GND** as follows.
-![An image of the circuit with the button and the right wire.](rightwiredbutton.jpeg)
+![An image of the circuit with the button and the right wire.](rightwiredbutton.jpg)
 
 <details>
 <summary>New to breadboards or LEDs? Read this first.</summary>
