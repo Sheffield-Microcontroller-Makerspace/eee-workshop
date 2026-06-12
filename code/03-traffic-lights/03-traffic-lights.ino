@@ -27,12 +27,12 @@ void loop() {
     digitalWrite(RED_LED, HIGH);
     delay(1000);
 
+    Serial.printf("Setting red LED low\n");
+    digitalWrite(RED_LED, LOW);
+
     Serial.printf("Setting amber LED high\n");
     digitalWrite(AMBER_LED, HIGH);
     delay(2000);
-
-    Serial.printf("Setting red LED low\n");
-    digitalWrite(RED_LED, LOW);
 
     Serial.printf("Setting amber LED low\n");
     digitalWrite(AMBER_LED, LOW);
