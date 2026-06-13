@@ -12,7 +12,7 @@ The very first exercise you should attempt is to blink the internal LED on the E
 ![An image of the completed circuit.](circuit.jpeg)
 *An image of the completed circuit.*
 
-![A breadboard diagram of the circuit. It gets more interesting than this, I promise.](Mounted ESP32_bb.png)
+![A breadboard diagram of the circuit. It gets more interesting than this, I promise.](MountedESP32_bb.png)
 *A breadboard diagram of the circuit. It gets more interesting than this, I promise.*
 
 ## Exercise Steps
