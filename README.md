@@ -5,6 +5,8 @@ It is **strongly** suggested you start with [exercise 0](exercises/00-hello-worl
 
 A pinout diagram for the Feather ESP32S3 can be found [here](https://cdn-learn.adafruit.com/assets/assets/000/139/614/large1024/adafruit_products_Artboard_1_4x.png?1757533230).
 
+Please note that the Fritzing diagrams show a different ESP32 board. The pins are roughly the same, but please refer to the pinout diagram if you are confused.
+
 ## Exercises
 | Exercise                                                        | Code                                                                              |
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------- |
