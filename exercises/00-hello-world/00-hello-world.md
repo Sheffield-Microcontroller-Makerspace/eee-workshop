@@ -26,7 +26,7 @@ Then go to Tools > Board > Boards Manager, search for esp32, and install the pac
 ### 2. Connect the board to the laptop
 
 Connect the board to your computer using the USB cable from the IoT kit.
-- Set the board: `Tools > Board > Adafruit ESP32S3 Feather 2MB PSRAM`
+- Set the board: `Tools > Board > Adafruit ESP32S3 Feather 2MB PSRAM` (you will likely have to scroll down)
 - Set the port: `Tools > Port > ` the USB connection (probably /dev/ttyACM0 or /dev/ttyACM1 on Ubuntu, or /dev/cu.SLAB_USBtoUART on a MAC, or e.g. COM15 on Windows)
 
 ### 3. Load the Blink sketch in the IDE

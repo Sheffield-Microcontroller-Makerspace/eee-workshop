@@ -13,3 +13,4 @@ It is **strongly** suggested you start with [exercise 0](exercises/00-hello-worl
 | [04-9-led](exercises/04-9-led/04-9-led.md)                               | [9-led.ino](code/04-9-led/04-9-led.ino)                                           |
 | [05-potentiometer-leds](exercises/05-potentiometer-leds/05-potentiometer-leds.md)                               | [05-potentiometer-leds.ino](code/05-potentiometer-leds/05-potentiometer-leds.ino)                                           |
 | [06-dimming-leds](exercises/06-dimming-leds/06-dimming-leds.md)                               | [06-dimming-leds.ino](code/06-dimming-leds/06-dimming-leds.ino)                                           |
+| [07-now-we're-internetworking](exercises/07-now-we're-internetworking/07-now-we're-internetworking.md) | [07-internetworking.ino](code/07-now-we're-internetworking/07-internetworking.ino) |

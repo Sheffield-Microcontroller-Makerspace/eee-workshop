@@ -43,6 +43,8 @@ Wire the circuit as follows:
 Follow the instructions above. 
 
 ### 2. Upload the Blink sketch and Change the Variables
+(NOTE: If you want a bit of a coding challenge, you should be able to write this code using what you've learnt in the previous couple of exercises. Implement the traffic light functionality by adding delays between when each led flashes. If you're still getting the hang of the software, continue as below).
+
 You should download/copy-paste the code file into your IDE. Change the PUSH_BUTTON variable to the pin that you connected the left side of your button with. Change the variable pins for the leds to the corresponding ones on your ESP32. 
 
 ### 3. Check the result

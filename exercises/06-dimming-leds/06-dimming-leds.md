@@ -1,10 +1,18 @@
 # 06 Dimming LEDs with PWM
 
-In the last exercise the potentiometer switched between LEDs — now we'll use it to actually dim them. The ESP32 can't output a truly variable voltage, so instead it rapidly switches the pin on and off. The ratio of on-time to off-time is called the **duty cycle**, and your eyes perceive it as brightness. This technique is called **pulse-width modulation (PWM)**.
+In the last exercise the potentiometer switched between LEDs — now we'll use it to actually dim them. The ESP32 can't output a truly variable voltage, so instead it rapidly switches the pin on and off. The ratio of on-time to off-time is called the duty cycle, and your eyes perceive it as brightness. This technique is called pulse-width modulation (PWM).
 
 ## Components
 
 Same circuit as [exercise 05](../05-potentiometer-leds/05-potentiometer-leds.md) — no changes needed.
+
+## Circuit Pictures
+
+![An image of the completed circuit.](../05-potentiometer-leds/circuit.jpeg)
+*An image of the completed circuit.*
+
+![A breadboard diagram of the circuit.](../05-potentiometer-leds/potentiometerbb.png)
+*A breadboard diagram of the circuit — note the diagram uses a different board, but the pin numbers are correct.*
 
 ## Exercise Steps
 
@@ -30,3 +38,6 @@ Open the Serial Monitor (`Tools > Serial Monitor`) at **115200** baud. You'll se
 Once the LEDs dim smoothly from off to full brightness, you've completed this exercise. Nice work — you've now used both digital and analog signals to control LEDs!
 
 > **Having trouble?** If the LEDs aren't dimming smoothly, check the Serial Monitor to confirm the potentiometer values are changing. If they're stuck at 0 or 4095, the wiper wire may not be connected to A3.
+
+## Extensions
+We can now use the potentiometer to introduce more variable functionality.
