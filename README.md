@@ -18,3 +18,4 @@ Please note that the Fritzing diagrams show a different ESP32 board. The pins ar
 | [05-potentiometer-leds](exercises/05-potentiometer-leds/05-potentiometer-leds.md)                               | [05-potentiometer-leds.ino](code/05-potentiometer-leds/05-potentiometer-leds.ino)                                           |
 | [06-dimming-leds](exercises/06-dimming-leds/06-dimming-leds.md)                               | [06-dimming-leds.ino](code/06-dimming-leds/06-dimming-leds.ino)                                           |
 | [07-now-we're-internetworking](exercises/07-now-we're-internetworking/07-now-we're-internetworking.md) | [07-internetworking.ino](code/07-now-we're-internetworking/07-internetworking.ino) |
+| [08-challenges](exercises/08-challenges/08-challenges.md) | N/A |
