@@ -10,9 +10,11 @@ The very first exercise you should attempt is to blink the internal LED on the E
 ## Circuit Pictures
 
 ![An image of the completed circuit.](circuit.jpeg)
+
 *An image of the completed circuit.*
 
 ![A breadboard diagram of the circuit. It gets more interesting than this, I promise.](MountedESP32_bb.png)
+
 *A breadboard diagram of the circuit. It gets more interesting than this, I promise.*
 
 ## Exercise Steps
@@ -21,7 +23,7 @@ The very first exercise you should attempt is to blink the internal LED on the E
 
 Go to `File > Preferences` and add `https://espressif.github.io/arduino-esp32/package_esp32_index.json` to the Additional Board Manager URLs. This will allow the Arduino IDE to talk to the board.
 
-Then go to Tools > Board > Boards Manager, search for esp32, and install the package by Espressif Systems, version 2.0.6 or 2.0.14 (a several hundred MB download).
+Then go to Tools > Board > Boards Manager, search for `esp32`, and install the package by Espressif Systems, version 2.0.6 or 2.0.14 (a several hundred MB download). This may take a while, so bring your popcorn!
 
 ### 2. Connect the board to the laptop
 
